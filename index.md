@@ -5,7 +5,7 @@ title: Privacy Policy — Elderly Care
 
 # Elderly Care — Privacy Policy
 
-**Last updated 22 October 2026.**
+**Last updated 24 October 2026.**
 Applies to Elderly Care for iPhone, published by School Fab Lab.
 {: .meta}
 
@@ -128,6 +128,10 @@ service to name the place. The name is kept with the memory; the position
 itself is not kept at all. With no connection or no fix, the memory is kept
 without a place. Nothing tracks you between scans, and the picture of the
 object is never sent anywhere.
+
+If you have mapped the place you are in — your home, say, for "where am I" —
+the same fix is compared with your maps on your iPhone, and the memory notes
+that place's name too ("Seen at Home"). Nothing is sent for that.
 
 What is *in* a photograph is worked out on your iPhone. Apple's Vision
 framework names what it recognises, and on iOS 27 one photograph from each day
@@ -319,6 +323,14 @@ way, and none of it happens on its own:
 contact you set in Settings. If none is set, he says he does not know who
 that is rather than guessing.
 
+## The memory game
+
+Once a day Smith may ask you when you last saw something you scanned in the
+Lab — and where, if you scanned it in a place you have mapped. What you
+answer is compared with that memory on your iPhone, Smith tells you how it
+went, and your answer is not kept or sent anywhere. Nothing is scored. Turn
+it off in Settings → *Smith*, or say "stop the memory games".
+
 ## The Lab
 
 The Lab, in Settings, holds Health — your body notes, your medicines and the
@@ -468,6 +480,9 @@ Care began on 20 October 2026 as a copy of Shaterian, another app of ours, and
 still shares its code, so this page began as Shaterian's policy. It differs
 where the apps do: Elderly Care does not capture your face, its circle has no
 caregiver app yet, and Health is in the Lab.
+
+On 24 October 2026 the memory game was added, and section 4 says that a
+scan kept in a place you have mapped notes that place's name.
 
 ## Contact
 
