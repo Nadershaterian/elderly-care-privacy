@@ -1,19 +1,19 @@
 ---
 layout: default
-title: Privacy Policy — Elderly Care
+title: Privacy Policy — Everlight Care
 ---
 
-# Elderly Care — Privacy Policy
+# Everlight Care — Privacy Policy
 
-**Last updated 24 October 2026.**
-Applies to Elderly Care for iPhone, published by School Fab Lab.
+**Last updated 25 October 2026.**
+Applies to Everlight Care for iPhone, published by School Fab Lab.
 {: .meta}
 
 Contact for anything on this page: **nader@schoolfablab.com**
 
 ## The short version
 
-Elderly Care keeps what you tell it on your iPhone.
+Everlight Care keeps what you tell it on your iPhone.
 
 There is no account to create. There is no server of ours. There is no
 analytics, no crash reporting service, no advertising, and no third-party
@@ -28,7 +28,7 @@ download — Smith's voice, fetched once. All seven are described below, in
 full. An eighth item is there for completeness and goes the other way: a
 message from us, which your iPhone reads and which carries nothing about you.
 
-## What Elderly Care holds, and where it lives
+## What Everlight Care holds, and where it lives
 
 <div class="tablewrap" markdown="1">
 
@@ -46,7 +46,7 @@ message from us, which your iPhone reads and which carries nothing about you.
 
 </div>
 
-When you import a document, iOS gives the app a temporary copy. Elderly Care
+When you import a document, iOS gives the app a temporary copy. Everlight Care
 reads the words out of that copy and deletes it. Your original file is never
 moved or changed.
 
@@ -73,7 +73,7 @@ it. Apple keeps it encrypted, on its servers and on the way there, with keys
 Apple holds, as it does for most iCloud data: Apple can decrypt it on your
 behalf. Turning on Advanced Data Protection for iCloud does not change that for
 these copies, because Apple's end-to-end protection for an app's data covers
-its encrypted fields, and Elderly Care keeps your memories in ordinary ones.
+its encrypted fields, and Everlight Care keeps your memories in ordinary ones.
 What you share with your circle is kept differently (section 7).
 
 For each memory, the copy contains exactly:
@@ -110,7 +110,7 @@ name.
 
 ### 3. Speech recognition
 
-When you speak to Elderly Care, it asks iOS to transcribe on the device
+When you speak to Everlight Care, it asks iOS to transcribe on the device
 wherever your iPhone supports it. On a device or a language where on-device
 recognition is not available, iOS sends that audio to Apple's speech
 recognition service. An app cannot force an on-device model to exist, so we
@@ -122,7 +122,7 @@ If you import photos, the coordinates stored in them are sent to Apple's
 geocoding service to turn them into a place name — "Lakeview", not a latitude.
 The photographs themselves are never sent anywhere.
 
-When you keep something you scanned in the Lab as a memory, Elderly Care takes
+When you keep something you scanned in the Lab as a memory, Everlight Care takes
 one location fix, if you allow location, and sends it to the same Apple
 service to name the place. The name is kept with the memory; the position
 itself is not kept at all. With no connection or no fix, the memory is kept
@@ -188,14 +188,14 @@ some of what is on your iPhone. Nobody sees anything until you invite them and
 choose what they see, in Settings → *Your circle* or by asking Smith.
 
 **Nobody can join yet.** The people you invite would see what you share in a
-caregiver app, and Elderly Care does not have one of its own yet. Its
+caregiver app, and Everlight Care does not have one of its own yet. Its
 invitations ask them to use Shaterian Caregiver, our caregiver app for another
-app of ours, and that app cannot open an Elderly Care circle. Until Elderly
+app of ours, and that app cannot open an Everlight Care circle. Until Everlight
 Care has a caregiver app, an invitation puts what you choose to share in your
 iCloud, as described below, but nobody can join and see it. *Stop sharing*
 removes it. This page will change when that does.
 
-**Where it goes.** Elderly Care keeps one space in **your own iCloud private
+**Where it goes.** Everlight Care keeps one space in **your own iCloud private
 database** and shares it, through iCloud, with the people you invite and with
 nobody else. There is no server of ours in between: School Fab Lab has no
 credentials for it and no way to read it. What is in it is kept in iCloud's
@@ -230,13 +230,13 @@ the people you invite.
 **Taking it back.** *Stop sharing*, in Settings → *Your circle*, deletes the
 shared space from your iCloud, so nobody can read any of it; nothing on your
 iPhone changes. Forget everything, and deleting your account and data, stop
-sharing too. Deleting Elderly Care from your iPhone does **not** stop sharing:
-stop first, or delete Elderly Care's data from your iCloud, as described under
+sharing too. Deleting Everlight Care from your iPhone does **not** stop sharing:
+stop first, or delete Everlight Care's data from your iCloud, as described under
 *Removing your data*.
 
 ### 8. A message from us — and it only ever comes *to* you
 
-Now and then we may have something to say to everybody using Elderly Care: a
+Now and then we may have something to say to everybody using Everlight Care: a
 get-together, or news about the app. When we do, we write it once, and your
 iPhone reads it the next time you open the app. It appears as a card on your
 Today screen.
@@ -248,19 +248,19 @@ knowing who read it, who came, or even how many of you there are.
 
 Settings offers a switch, **Remind me before one**, which is **off unless you
 turn it on**. With it on, and if what we have told you about has a date,
-Elderly Care sets a reminder on your own iPhone for the evening before — the
+Everlight Care sets a reminder on your own iPhone for the evening before — the
 same way it sets the daily nudge and your routines. **Nothing is sent to your
 iPhone from outside**: no push, no message from us, and nothing that needs an
 iCloud account. Your iPhone reads the message when you open the app, and
 leaves the reminder for itself. Turn the switch off whenever you like, and it
 is withdrawn.
 
-It is only ever about Elderly Care itself. Never advertising, never anybody
+It is only ever about Everlight Care itself. Never advertising, never anybody
 else's message, and never more than a few a year.
 
 Putting a message away with **No thanks** is remembered on your iPhone only.
 
-## What Elderly Care never does
+## What Everlight Care never does
 
 - No analytics or telemetry of any kind
 - No crash-reporting service
@@ -285,7 +285,7 @@ described in section 5.
 | Photos | Optional import of days and places from your library |
 | Calendar and Reminders | Your calendar is **read, never copied**: when you ask Smith what is on today or when your next appointment is, the events for those days are read on your iPhone to answer, and not stored. Smith asks for this permission the first time you ask; without it he answers from your routines and reminders and can open the Calendar app for you. Reminders are treated the same way: if you connect them, what is due is read to answer and for the daily reminder, and nothing is copied in. Adding an appointment you ask Smith for goes through Apple's own Add Event screen, which needs no permission and shows the app nothing |
 | Contacts | Names, so people in your life are recognised — and, when you ask Smith to call or message someone, that person's number. Read at the moment you ask; never kept |
-| Apple Health | **Read only.** Steps, resting heart rate, HRV, sleep, walking speed and steadiness. Elderly Care never writes to Health |
+| Apple Health | **Read only.** Steps, resting heart rate, HRV, sleep, walking speed and steadiness. Everlight Care never writes to Health |
 | Camera | Scanning a room so the app can recognise where you are later, and taking your picture, if you choose the camera for it. In the Lab: lifting out an object you scan, to keep as a memory |
 | Location (while using the app) | Answering "where am I" and guiding you home. In the Lab: noting where you kept something you scanned, named by Apple's map service (section 4) |
 | Notifications | One daily reminder, if you want it — written on your iPhone from your calendar for that day and your own earlier years, never sent anywhere; any reminder you ask Smith to set; routines — repeating reminders such as pills at 8 and 8, with a Taken button that records the dose; and, if you have a circle, a note when somebody in it suggests something, joins or leaves |
@@ -335,7 +335,7 @@ it off in Settings → *Smith*, or say "stop the memory games".
 
 The Lab, in Settings, holds Health — your body notes, your medicines and the
 summary for your doctor, all described on this page — and one thing we are
-trying out: **Scan an object**. Point the camera at something, and Elderly
+trying out: **Scan an object**. Point the camera at something, and Everlight
 Care lifts it out of the picture, says what it is, and — if you choose — keeps
 it as a memory with its picture.
 
@@ -352,9 +352,9 @@ it as a memory with its picture.
 - **Removing it.** Like any memory: on its own, or with Forget everything. Its
   picture goes with it.
 
-## Paying for Elderly Care
+## Paying for Everlight Care
 
-On the App Store, Elderly Care will be free for two weeks, then a small
+On the App Store, Everlight Care will be free for two weeks, then a small
 monthly subscription — the price is shown in your own currency before you
 subscribe. Test versions, through Apple's TestFlight, have no subscription:
 nothing is offered and nothing is paid.
@@ -380,9 +380,9 @@ cancelled trial never locks you away from what is yours.
 
 ## Your picture, and your face
 
-**Elderly Care does not capture your face.** Shaterian, the app of ours that
-Elderly Care began as, can measure a face with the iPhone's TrueDepth camera
-to build a likeness of you. That part of the code is still inside Elderly
+**Everlight Care does not capture your face.** Shaterian, the app of ours that
+Everlight Care began as, can measure a face with the iPhone's TrueDepth camera
+to build a likeness of you. That part of the code is still inside Everlight
 Care, but nothing in the app leads to it: the camera is never used for it,
 and no face data is collected.
 
@@ -396,7 +396,7 @@ and the colours are cleared when you change or remove the picture.
 
 ## Health information
 
-Elderly Care reads from Apple Health and **never writes to it**. Figures are
+Everlight Care reads from Apple Health and **never writes to it**. Figures are
 read when they are shown, and are not copied into the app's own storage.
 
 Health information is never used for advertising, never shared with anyone you
@@ -410,7 +410,7 @@ It is **not** copied to your iCloud, even with sync on — nothing that came
 from Apple Health, and none of your body notes, medication diary or hand-typed
 figures, ever is.
 
-**Elderly Care is not a medical device.** It does not diagnose, treat or give
+**Everlight Care is not a medical device.** It does not diagnose, treat or give
 medical advice, and it is not a substitute for your doctor, nurse or
 specialist. Questions that call for a medical decision are redirected to your
 care team before they reach any model.
@@ -446,13 +446,13 @@ leave them out:
   every iPhone that syncs with it, and the app says so before you confirm.
   With sync off, it clears this iPhone only, and anything already in your
   iCloud from earlier stays there; to remove that, go to **iOS Settings → your
-  name → iCloud → Manage Account Storage** and delete Elderly Care's data, or
+  name → iCloud → Manage Account Storage** and delete Everlight Care's data, or
   use *Delete your account and data*. We cannot do it for you: it is your
   private database and we have no access to it.
 - **Your circle has its own copy.** *Stop sharing*, in Settings → Your circle,
   deletes the space you share from your iCloud, and Forget everything does the
   same. Deleting the app does not: if you delete it without stopping, delete
-  Elderly Care's data from your iCloud as above, which removes the shared space
+  Everlight Care's data from your iCloud as above, which removes the shared space
   too.
 - **Scanned place maps cannot yet be removed inside the app.** They are held by
   a component the app cannot currently delete from. They stay on your iPhone
@@ -468,21 +468,23 @@ is removed as described above.
 
 ## Children
 
-Elderly Care is made for adults and is not directed at children.
+Everlight Care is made for adults and is not directed at children.
 
 ## Changes to this policy
 
 If what the app does changes, this page changes in the same release, and the
 date at the top changes with it.
 
-This is Elderly Care's first policy, published on 22 October 2026. Elderly
-Care began on 20 October 2026 as a copy of Shaterian, another app of ours, and
-still shares its code, so this page began as Shaterian's policy. It differs
-where the apps do: Elderly Care does not capture your face, its circle has no
-caregiver app yet, and Health is in the Lab.
+This is the app's first policy, published on 22 October 2026, when it was
+called Elderly Care. It began on 20 October 2026 as a copy of Shaterian,
+another app of ours, and still shares its code, so this page began as
+Shaterian's policy. It differs where the apps do: Everlight Care does not
+capture your face, its circle has no caregiver app yet, and Health is in the
+Lab.
 
 On 24 October 2026 the memory game was added, and section 4 says that a
-scan kept in a place you have mapped notes that place's name.
+scan kept in a place you have mapped notes that place's name. On 25 October
+2026 the app was renamed Everlight Care; nothing it does changed.
 
 ## Contact
 
