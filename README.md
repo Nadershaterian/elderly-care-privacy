@@ -1,6 +1,6 @@
-# Elderly Care — Privacy Policy
+# Everlight Care — Privacy Policy
 
-The privacy policy for Elderly Care for iPhone, published by School Fab Lab.
+The privacy policy for Everlight Care for iPhone, published by School Fab Lab.
 It is served by GitHub Pages at
 https://nadershaterian.github.io/elderly-care-privacy/
 
